@@ -1,0 +1,45 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+
+header{
+   box-sizing: border-box;
+   width: auto;
+   height: 10vh;
+   background-color: gray;
+   padding: 15px;
+   padding-left: 25px;
+
+}
+
+div{
+   width: auto;
+   height: 15vh;
+}
+
+.profile-image{
+   width: 100px;
+   height: 100px;
+   background-color: skyblue;
+   
+}
+
+.blue{
+   background-color: blue;
+}
+.cyan{
+   background-color: cyan;
+}
+.lime{
+   background-color: lime;
+}
+
+.fuschia{
+   background-color: fuchsia;
+}
+
+article{
+   box-sizing: border-box;
+   padding: 50px;
+}
